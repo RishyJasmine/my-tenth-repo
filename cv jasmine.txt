@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MY CV RISHY JASMINE KUNDA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e4ebf0;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 800px;
+      background-color: #f4f9fc;
+      padding: 20px 40px;
+      margin: auto;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #ccc;
+    }
+
+    h1 {
+      text-align: center;
+      text-transform: uppercase;
+      color: #002f4b;
+    }
+
+    h2 {
+      color: #002f4b;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px 0;
+    }
+
+    table, th, td {
+      border: 1px solid #999;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+
+    ul {
+      margin-top: 5px;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    .declaration {
+      margin-top: 30px;
+      border-top: 1px solid #999;
+      padding-top: 10px;
+    }
+
+    .signature {
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Lokeswari bhavana</h1>
+    <p><strong>Phone:8897849193</strong> </p>
+    <p><strong>Place:</strong> managalapalem, Vishakapatnam</p>
+
+    <div class="section">
+      <h2>Education</h2>
+      <table>
+        <tr>
+          <th>Level</th>
+          <th>Institution</th>
+          <th>Board/University</th>
+          <th>Year of Passing</th>
+          <th>Percentage</th>
+        </tr>
+        <tr>
+          <td>School</td>
+          <td>St.Ann's high school</td>
+          <td>ssc</td>
+          <td>2021</td>
+          <td>9.0</td>
+        </tr>
+        <tr>
+          <td>Intermediate</td>
+          <td>Narayana Junior college</td>
+          <td>State Board</td>
+          <td>2023</td>
+          <td>850</td>
+        </tr>
+        <tr>
+          <td>Degree</td>
+          <td>Aditya Degree College</td>
+          <td>Andhra University</td>
+          <td>2026</td>
+          <td>81%</td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="section">
+      <h2>Certifications</h2>
+      <ul>
+        <li>C Programming</li>
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>Database</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Technical Skills</h2>
+      <ul>
+        <li>C, Python, JavaScript</li>
+        <li>SQL & Database Management</li>
+        <li>Basic Web Development</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Soft Skills</h2>
+      <ul>
+        <li>Problem Solving</li>
+        <li>Communication</li>
+        <li>Teamwork</li>
+        <li>Time Management</li>
+        <li>Adaptability</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Languages Known</h2>
+      <ul>
+        <li>Telugu</li>
+        <li>English</li>
+      </ul>
+    </div>
+
+    <div class="section declaration">
+      <h2>Declaration</h2>
+      <p>I hereby declare that the information provided above is true to the best of my knowledge and belief. I bear the responsibility for the correctness of the above-mentioned particulars.</p>
+      <p><strong>Date:</strong> 22-07-2025<br>
+      <strong>Place:</strong> Desapartunipalem</p>
+      <div class="signature">
+        <p>Signature:<br><br>
+        (J.Lohitha)</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
